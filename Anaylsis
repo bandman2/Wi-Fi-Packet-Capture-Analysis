@@ -1,0 +1,51 @@
+# Analysis Notes
+
+## Acrylic Wi-Fi Sniffer
+
+The original report states that Acrylic was used to place the Wi-Fi adapter into monitor mode and help Wireshark see wireless packets.
+
+The report also notes that Acrylic displayed nearby networks and their signal/connectivity information.
+
+## Wireshark
+
+The original report describes Wireshark as the packet-capture and analysis tool. The student noted that Wireshark initially felt more confusing and less structured than Acrylic.
+
+## Practical Learning
+
+The lab helped connect classroom network-forensics concepts with live wireless traffic. It provided practice with:
+- Wireless packet capture
+- Packet inspection
+- Network observation
+- Basic evidence handling
+- Forensic acquisition concepts
+
+
+# Data Acquisition Process
+
+The original report identified four stages:
+
+## 1. Identification
+
+Find where the data is coming from, such as the Wi-Fi adapter or device.
+
+## 2. Preservation
+
+Keep the data safe and do not change or delete it.
+
+## 3. Acquisition
+
+Capture the data using tools such as Wireshark and Acrylic Wi-Fi Sniffer.
+
+## 4. Verification
+
+Check that the data is real and has not been changed. The original report identified saving and hashing the file as part of verification.
+
+## Portfolio Note
+
+These steps can be expanded in future projects with:
+- Capture timestamps
+- File hashes
+- Evidence names
+- Chain-of-custody notes
+- Capture file formats
+- Detailed packet-analysis findings
