@@ -1,0 +1,6 @@
+## Wi-Fi Packet Capture & Analysis — Network Forensics Project
+
+- Captured and analyzed live Wi-Fi traffic using **Wireshark** and **Acrylic Wi-Fi Sniffer**.
+- Examined wireless traffic and packet details to understand how devices communicate across a Wi-Fi network.
+- Practiced basic forensic data-acquisition concepts including identification, preservation, acquisition, and verification.
+- Documented observations from wireless network capture and analysis.
